@@ -2,7 +2,7 @@
 
 Proyecto de **aprendizaje por refuerzo** aplicado al juego **Connect4**, desarrollado para entrenar un agente capaz de jugar de forma competitiva contra distintos oponentes predefinidos.
 
-El modelo principal está basado en **Deep Q-Learning (DQN)** y fue entrenado de manera iterativa contra agentes como `RandomAgent`, `DefenderAgent` y versiones heurísticas, buscando mejorar su desempeño de forma progresiva. :contentReference[oaicite:2]{index=2}
+El modelo principal está basado en **Deep Q-Learning (DQN)** y fue entrenado de manera iterativa contra agentes como `RandomAgent`, `DefenderAgent` y versiones heurísticas, buscando mejorar su desempeño de forma progresiva. 
 
 ## Objetivo
 
