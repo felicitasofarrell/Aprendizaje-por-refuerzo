@@ -38,7 +38,7 @@ Después de múltiples pruebas y ajustes, se obtuvo un agente que:
 - `learning_rate = 0.00005`
 - `batch_size = 512`
 - `memory_size = 200000`
-- `target_update_every = 1000` :contentReference[oaicite:4]{index=4}
+- `target_update_every = 1000` 
 
 ## Cómo correrlo
 
